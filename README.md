@@ -1,2 +1,2 @@
-# rest_api_go
+# REST API GOLANG
 Rest API made in go for study purpose

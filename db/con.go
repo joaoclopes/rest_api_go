@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	host     = "localhost"
+	host     = "go-db"
 	port     = 5432
 	user     = "postgres"
 	password = "1234"
